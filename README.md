@@ -16,3 +16,43 @@ Uber Technologies, Inc. (Uber) is an American mobility service provider based in
 •Ferry transport (partnership with local operators).<br><br>
 Uber does not own any vehicles; instead, it receives a commission from each booking. Fares are quoted to the customer in advance but vary using a dynamic pricing model based on the local supply and demand at the time of the booking.
 Our team chose Uber as our story's main focus because not only does the company have its ups and downs, but it also got an exciting story to tell.
+
+
+# Platforms Analysis Dashboards
+
+<br>
+
+> S&P 500 Daily Statistics
+
+<br>![image](https://user-images.githubusercontent.com/99053678/183901205-939fd418-d615-44b9-b05e-279e504a3606.png)
+
+
+<br>
+<br>
+
+> KPIs
+
+<br>
+
+![image](https://user-images.githubusercontent.com/99053678/183901474-ca9c310a-d293-4fad-9871-3955fadf1460.png)
+
+<br>
+<br>
+
+> Stock Investment Criteria
+
+<br>
+
+![image](https://user-images.githubusercontent.com/99053678/183901772-48473786-a43b-461d-8a0e-f967e9b05fa9.png)
+
+<br>
+<br>
+
+> Uber Analysis
+
+<br>
+
+![image](https://user-images.githubusercontent.com/99053678/183901937-7a042f86-2870-4d2a-8a3b-e7db43b0d797.png)
+![image](https://user-images.githubusercontent.com/99053678/183903081-946ba9ea-16b9-4c87-8086-4b018bca3814.png)
+
+<br>
